@@ -40,7 +40,7 @@ input {
   height: 30px;
   width: 400px;
 
-  background-color: royalblue;
+  background-color: white;
   margin-top: 0px;
 
   font-size: 20px;
@@ -51,7 +51,7 @@ input {
   width: 320px;
   color: black;
   text-decoration: none;
-  background-color: royalblue;
+  background-color: white;
   margin-top: 5 px;
   text-align: center;
   font-size: 20px;
