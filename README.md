@@ -1,2 +1,2 @@
-# myFirstJavaScriptSite
+# myFirstSite
 Created with CodeSandbox
